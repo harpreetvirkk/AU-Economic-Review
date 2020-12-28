@@ -1,2 +1,5 @@
-# AU-Economic-Review
-Webapp for Ashoka University's Premier Economic Newspaper
+## AU Economic Review
+
+- Ashoka University Economic Review is for [Ashoka University](https://ashoka.edu.in)'s Premier Economics Newspaper.
+
+- Website live @ auer.co.in
