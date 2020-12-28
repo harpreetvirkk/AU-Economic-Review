@@ -1,6 +1,6 @@
 ## AU Economic Review
 
-🎓 Ashoka University Economic Review is for [Ashoka University](https://ashoka.edu.in)'s Premier Economics Newspaper.
+🎓 Ashoka University Economic Review is [Ashoka University](https://ashoka.edu.in)'s Premier Economics Newspaper.
 
 💻 Developed using [Quasar Framework](https://quasar.dev/)
 
